@@ -1,0 +1,23 @@
+.container{
+    margin:10% auto;
+    width: 70%;
+    height: 70%;
+    background-color: blueviolet;
+}
+
+#startDate, #endDate{
+    padding: 30px;
+    width: 90%;
+    margin: 40px 0px 0px 20px;
+    font-size: large;
+    border-radius: 20px;
+}
+
+#submit{
+    padding: 30px 50px;
+    background-color: burlywood;
+    font-size: large;
+    border-radius: 50px;
+    margin-left: 680px;
+    margin-top: 80px;
+}
